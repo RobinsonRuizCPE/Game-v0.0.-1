@@ -1,2 +1,7 @@
 Project/Temp
 Project/Library
+Project/.vs
+#Ignore tout les .meta
+*.meta
+#sauf ceux la
+!*.*.meta
